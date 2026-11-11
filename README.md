@@ -24,11 +24,6 @@ or [Steam](https://store.steampowered.com/app/977950/A_Dance_of_Fire_and_Ice/).
 | Version | Date | Highlights |
 |---|---|---|
 | [0.3.0](releases/notes-0.3.0.md) | 2026-11-10 | Level queue, new level picker with artwork, options screen, text flicker fix |
-| [0.2.0](releases/notes-0.2.0.md) | 2026-11-09 | Online rooms on the public server, spectator, chat, modifiers, EN/PT/KO |
-| [0.1.0](releases/notes-0.1.0.md) | 2026-11-08 | First Android build, custom levels, level import and download |
-
-Full list: [CHANGELOG.md](CHANGELOG.md). Technical data of each build (sizes, checksums, settings):
-[docs/BUILD-INFO.md](docs/BUILD-INFO.md).
 
 ## Requirements
 
@@ -76,11 +71,6 @@ ou na [Steam](https://store.steampowered.com/app/977950/A_Dance_of_Fire_and_Ice/
 | Versão | Data | Destaques |
 |---|---|---|
 | [0.3.0](releases/notes-0.3.0.md) | 10/11/2026 | Fila de fases, seletor de fases com arte, tela de opções, correção dos textos piscando |
-| [0.2.0](releases/notes-0.2.0.md) | 09/11/2026 | Salas online no servidor público, espectador, chat, modificadores, PT/EN/KO |
-| [0.1.0](releases/notes-0.1.0.md) | 08/11/2026 | Primeira build Android, fases personalizadas, importar e baixar fases |
-
-Lista completa: [CHANGELOG.md](CHANGELOG.md). Dados técnicos de cada build (tamanhos, checksums, configurações):
-[docs/BUILD-INFO.md](docs/BUILD-INFO.md).
 
 ### Requisitos
 
