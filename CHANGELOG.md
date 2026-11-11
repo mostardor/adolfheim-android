@@ -2,6 +2,23 @@
 
 Versions of the Android port. Dates are YYYY-MM-DD.
 
+## Unreleased — in the source, not in any APK yet
+
+These changes are already in the shared online code and the Android project, but they are **not part of the 0.3.0 APK**
+and have not been tested on a phone yet. They will ship with the next build.
+
+### Added
+- Room password (optional): set when creating a room, typed when joining a locked room; rooms with a password are marked in the list
+- Host tools: **Ban** a player (by IP, while the room exists), besides *Remove*
+- **Report** button next to other players' names (the room server logs it; the host is notified)
+- Chat anti-spam: limit on how fast messages can be sent
+- Optional swear-word filter for the chat and player names (Options screen, on by default)
+
+### Fixed
+- Empty level list after coming back from a match (the level selector can reopen in a featured category with only the official levels)
+- A level download that receives no data for 30 s now fails with a message instead of staying at "Downloading 0%"
+- Touches on the online screens going through to the level selector behind them, which could enter a level by itself
+
 ## 0.3.0 — 2026-11-10
 
 ### Added
