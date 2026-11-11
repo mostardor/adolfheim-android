@@ -1,11 +1,9 @@
-# ADOFAI Android port
+# ADOFAI PC -> Android Port
 
 Unofficial, fan-made Android port of **A Dance of Fire and Ice** (7th Beat Games), with custom levels and online
 rooms on the phone.
 
 > Not affiliated with, or endorsed by, 7th Beat Games. "A Dance of Fire and Ice" belongs to 7th Beat Games.
-> **This repository does not contain the game:** no APK, no OBB, no game code and no game assets. It tracks the
-> port's versions, changes and build information. **Português:** [leia abaixo](#português).
 
 Support the developers: buy the game on [Google Play](https://play.google.com/store/apps/details?id=com.fizzd.connectedworlds)
 or [Steam](https://store.steampowered.com/app/977950/A_Dance_of_Fire_and_Ice/).
@@ -49,8 +47,7 @@ Full list: [CHANGELOG.md](CHANGELOG.md). Technical data of each build (sizes, ch
 ## Reporting a problem
 
 Open an [issue](../../issues/new/choose) with your device, Android version, port version and, if it is a level,
-its name or link. Please do not ask for game files here.
-
+its name or link.
 ---
 
 ## Português
@@ -59,8 +56,6 @@ Port não oficial, feito por fãs, de **A Dance of Fire and Ice** (7th Beat Game
 personalizadas e salas online no celular.
 
 > Sem vínculo com a 7th Beat Games nem endosso dela. "A Dance of Fire and Ice" pertence à 7th Beat Games.
-> **Este repositório não contém o jogo:** nem APK, nem OBB, nem código ou arquivos do jogo. Ele registra as versões
-> do port, as mudanças e as informações de cada build.
 
 Apoie os desenvolvedores: compre o jogo na [Google Play](https://play.google.com/store/apps/details?id=com.fizzd.connectedworlds)
 ou na [Steam](https://store.steampowered.com/app/977950/A_Dance_of_Fire_and_Ice/).
@@ -104,4 +99,4 @@ Lista completa: [CHANGELOG.md](CHANGELOG.md). Dados técnicos de cada build (tam
 ### Relatar um problema
 
 Abra uma [issue](../../issues/new/choose) com o aparelho, a versão do Android, a versão do port e, se for uma fase,
-o nome ou o link dela. Não peça arquivos do jogo aqui.
+o nome ou o link dela.
