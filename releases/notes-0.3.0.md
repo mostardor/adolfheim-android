@@ -8,7 +8,6 @@
 - **Fixed:** texts no longer flash in Portuguese for one frame when another language is selected.
 - **Fixed:** the level list could come up empty before the level folders had been read.
 
-This release has no game files attached. Build data: [docs/BUILD-INFO.md](https://github.com/mostardor/adofai-android/blob/main/docs/BUILD-INFO.md).
 
 ---
 
@@ -22,4 +21,3 @@ This release has no game files attached. Build data: [docs/BUILD-INFO.md](https:
 - **Corrigido:** os textos não piscam mais em português por um quadro quando outro idioma está selecionado.
 - **Corrigido:** a lista de fases podia vir vazia antes de as pastas de fases serem lidas.
 
-Esta versão não tem arquivos do jogo anexados. Dados da build: [docs/BUILD-INFO.md](https://github.com/mostardor/adofai-android/blob/main/docs/BUILD-INFO.md).
