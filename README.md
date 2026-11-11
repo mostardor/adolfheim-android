@@ -17,8 +17,7 @@ or [Steam](https://store.steampowered.com/app/977950/A_Dance_of_Fire_and_Ice/).
   (Immortal, Speed 0.5x–2x), level queue
 - **Online portal** in the main menu
 - Screens in English, Portuguese and Korean
-- Larger, touch-friendly level selector; no Unity splash screen
-
+- Larger, touch-friendly level selector.
 ## Versions
 
 | Version | Date | Highlights |
@@ -65,7 +64,7 @@ ou na [Steam](https://store.steampowered.com/app/977950/A_Dance_of_Fire_and_Ice/
   (Imortal, Velocidade 0,5x–2x) e fila de fases
 - **Portal Online** no menu principal
 - Telas em português, inglês e coreano
-- Seletor de fases maior, próprio para toque; sem a abertura do Unity
+- Seletor de fases maior, próprio para toque.
 
 ### Versões
 
