@@ -9,8 +9,7 @@
 - **Languages:** English, Portuguese and Korean, following the game language.
 - Matches start at the time set by the server and restart on their own after a fail.
 
-This release has no game files attached. Build data: [docs/BUILD-INFO.md](https://github.com/mostardor/adofai-android/blob/main/docs/BUILD-INFO.md).
-
+This release has no game files attached.
 ---
 
 ### Português
@@ -24,4 +23,4 @@ This release has no game files attached. Build data: [docs/BUILD-INFO.md](https:
 - **Idiomas:** português, inglês e coreano, seguindo o idioma do jogo.
 - A partida começa na hora marcada pelo servidor e recomeça sozinha depois de uma falha.
 
-Esta versão não tem arquivos do jogo anexados. Dados da build: [docs/BUILD-INFO.md](https://github.com/mostardor/adofai-android/blob/main/docs/BUILD-INFO.md).
+Esta versão não tem arquivos do jogo anexados.
