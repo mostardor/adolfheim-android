@@ -25,6 +25,16 @@ or [Steam](https://store.steampowered.com/app/977950/A_Dance_of_Fire_and_Ice/).
 | [0.3.1](releases/notes-0.3.1.md) | 2026-11-11 | Room password, ban and report, chat anti-spam and filter, level list and touch fixes |
 | [0.3.0](releases/notes-0.3.0.md) | 2026-11-10 | Level queue, new level picker with artwork, options screen, text flicker fix |
 
+## Download (always the latest version)
+
+These links always point to the files of the newest release, so scripts and download managers can use them as they are:
+
+- APK: https://github.com/mostardor/adolfheim-android/releases/latest/download/Adolfheim.apk
+- OBB: https://github.com/mostardor/adolfheim-android/releases/latest/download/main.1.com.adofaiport.personal.obb
+
+Both files are attached to every release (even when the OBB did not change), so the links never break. Put the OBB in
+`Android/obb/com.adofaiport.personal/`.
+
 ## Requirements
 
 - Android 8.0 or newer (API 26+), 64-bit ARM (arm64-v8a)
@@ -71,6 +81,16 @@ ou na [Steam](https://store.steampowered.com/app/977950/A_Dance_of_Fire_and_Ice/
 | Versão | Data | Destaques |
 |---|---|---|
 | [0.3.0](releases/notes-0.3.0.md) | 10/11/2026 | Fila de fases, seletor de fases com arte, tela de opções, correção dos textos piscando |
+
+### Baixar (sempre a versão mais recente)
+
+Estes links sempre apontam para os arquivos da release mais nova, então scripts e gerenciadores de download podem usá-los direto:
+
+- APK: https://github.com/mostardor/adolfheim-android/releases/latest/download/Adolfheim.apk
+- OBB: https://github.com/mostardor/adolfheim-android/releases/latest/download/main.1.com.adofaiport.personal.obb
+
+Os dois arquivos ficam anexados em toda release (mesmo quando o OBB não mudou), então os links nunca quebram. Coloque o OBB em
+`Android/obb/com.adofaiport.personal/`.
 
 ### Requisitos
 
