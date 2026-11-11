@@ -1,0 +1,46 @@
+name: Bug report / Relatar problema
+description: Something does not work in the Android port / Algo não funciona no port Android
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This repository has no game files. Requests for the APK, OBB or game assets will be closed.
+        Este repositório não tem arquivos do jogo. Pedidos de APK, OBB ou arquivos do jogo serão fechados.
+  - type: input
+    id: version
+    attributes:
+      label: Port version / Versão do port
+      placeholder: "0.3.0"
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: Device and Android version / Aparelho e versão do Android
+      placeholder: "POCO F7, Android 15"
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area / Área
+      options:
+        - Gameplay / Jogo
+        - Custom levels (import, download) / Fases personalizadas
+        - Online rooms / Salas online
+        - Graphics / Gráficos
+        - Other / Outro
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened / O que aconteceu
+      description: Steps, what you expected, and the level name or link if it is about a level.
+    validations:
+      required: true
+  - type: textarea
+    id: extra
+    attributes:
+      label: Screenshots or log / Capturas ou log

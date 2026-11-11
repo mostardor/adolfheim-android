@@ -1,0 +1,11 @@
+# Game files never go in this repository
+*.apk
+*.aab
+*.obb
+*.dll
+*.so
+*.assets
+*.resS
+*.resource
+*.unity3d
+*.zip
