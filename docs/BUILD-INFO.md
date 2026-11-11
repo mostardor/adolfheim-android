@@ -22,6 +22,19 @@ Level folder on the device: `Android/data/com.adofaiport.personal/files/Worlds`.
 
 ## Builds
 
+### 0.3.1 — 2026-11-11
+
+| File | Size | SHA-256 |
+|---|---|---|
+| APK | 81,614,053 bytes (77.8 MiB) | `0a84d6e7d9a150729e42ee426face0946ee6fb454986d010f1eeb20914230ac0` |
+| OBB | 686,065,691 bytes (654.3 MiB) | `401a70166f2233d7586766daccf8670f7e307730d98c2b9d506ed4274df7618e` |
+
+- Version name 0.3.1, version code 1 (kept at 1 on purpose: it is part of the OBB file name)
+- Original-game check: off
+- Build time: about 8 minutes (Unity 6000.3.27f2, IL2CPP)
+- The OBB changed since 0.3.0: replace it when updating
+- Tested on: POCO F7 (not tested on the device for the changes of this version yet)
+
 ### 0.3.0 — 2026-11-10
 
 | File | Size | SHA-256 |

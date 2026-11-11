@@ -2,10 +2,9 @@
 
 Versions of the Android port. Dates are YYYY-MM-DD.
 
-## Unreleased — in the source, not in any APK yet
+## 0.3.1 — 2026-11-11
 
-These changes are already in the shared online code and the Android project, but they are **not part of the 0.3.0 APK**
-and have not been tested on a phone yet. They will ship with the next build.
+The OBB changed in this version: install the new APK **and** replace the `.obb`.
 
 ### Added
 - Room password (optional): set when creating a room, typed when joining a locked room; rooms with a password are marked in the list

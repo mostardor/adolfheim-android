@@ -23,6 +23,7 @@ or [Steam](https://store.steampowered.com/app/977950/A_Dance_of_Fire_and_Ice/).
 
 | Version | Date | Highlights |
 |---|---|---|
+| [0.3.1](releases/notes-0.3.1.md) | 2026-11-11 | Room password, ban and report, chat anti-spam and filter, level list and touch fixes |
 | [0.3.0](releases/notes-0.3.0.md) | 2026-11-10 | Level queue, new level picker with artwork, options screen, text flicker fix |
 
 ## Requirements
