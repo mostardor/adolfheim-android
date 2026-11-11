@@ -11,7 +11,7 @@ First Android build.
 - **Fixed:** simultaneous level events ran in a different order than in the original game, leaving a decoration on screen in some
   levels.
 
-This release has no game files attached. Build data: [docs/BUILD-INFO.md](https://github.com/mostardor/adofai-android/blob/main/docs/BUILD-INFO.md).
+This release has no game files attached.
 
 ---
 
@@ -28,4 +28,4 @@ Primeira build para Android.
 - **Corrigido:** eventos simultâneos da fase rodavam em ordem diferente da do jogo original e deixavam uma decoração na tela em
   algumas fases.
 
-Esta versão não tem arquivos do jogo anexados. Dados da build: [docs/BUILD-INFO.md](https://github.com/mostardor/adofai-android/blob/main/docs/BUILD-INFO.md).
+Esta versão não tem arquivos do jogo anexados. 
