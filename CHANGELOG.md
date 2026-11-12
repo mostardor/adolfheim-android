@@ -2,6 +2,17 @@
 
 Versions of the Android port. Dates are YYYY-MM-DD.
 
+## 0.3.2 — 2026-11-11
+
+One file only: the OBB is gone. Install the APK; nothing goes in `Android/obb` anymore.
+
+### Changed
+- **Single APK:** the game content is inside the APK (about 615 MiB), so there is no `.obb` to copy anymore
+- The **Neo Cosmos DLC content is no longer shipped** in the port (it was inside the OBB of 0.3.0 and 0.3.1; about 130 MB less)
+
+### Added
+- Notice when a custom level uses Neo Cosmos DLC features, which are not part of the port: the level still plays, with those effects disabled (English, Portuguese and Korean)
+
 ## 0.3.1 — 2026-11-11
 
 The OBB changed in this version: install the new APK **and** replace the `.obb`.

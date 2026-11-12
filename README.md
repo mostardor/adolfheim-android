@@ -22,6 +22,7 @@ or [Steam](https://store.steampowered.com/app/977950/A_Dance_of_Fire_and_Ice/).
 
 | Version | Date | Highlights |
 |---|---|---|
+| [0.3.2](releases/notes-0.3.2.md) | 2026-11-11 | Single APK (no OBB), Neo Cosmos DLC content removed, notice for levels that use DLC features |
 | [0.3.1](releases/notes-0.3.1.md) | 2026-11-11 | Room password, ban and report, chat anti-spam and filter, level list and touch fixes |
 | [0.3.0](releases/notes-0.3.0.md) | 2026-11-10 | Level queue, new level picker with artwork, options screen, text flicker fix |
 
@@ -30,22 +31,21 @@ or [Steam](https://store.steampowered.com/app/977950/A_Dance_of_Fire_and_Ice/).
 These links always point to the files of the newest release, so scripts and download managers can use them as they are:
 
 - APK: https://github.com/mostardor/adolfheim-android/releases/latest/download/Adolfheim.apk
-- OBB: https://github.com/mostardor/adolfheim-android/releases/latest/download/main.1.com.adofaiport.personal.obb
 
-Both files are attached to every release (even when the OBB did not change), so the links never break. Put the OBB in
-`Android/obb/com.adofaiport.personal/`.
+Since 0.3.2 the APK is the only file: the game content is inside it, and there is no OBB to copy. (Versions 0.3.1 and
+older need the `.obb` that is attached to their own releases, in `Android/obb/com.adofaiport.personal/`.)
 
 ## Requirements
 
 - Android 8.0 or newer (API 26+), 64-bit ARM (arm64-v8a)
 - Vulkan or OpenGL ES 3
-- About 800 MB of free storage, plus your levels
+- About 650 MB of free storage for the app (about 1.3 GB free while installing), plus your levels
 - Internet only for the level browser and the online rooms
 
 ## Known issues
 
 - The four `Framebuffer` blend-mode shaders are approximations, so a few decorations can look different
-- The Neo Cosmos DLC is not part of the port
+- The Neo Cosmos DLC is not part of the port; custom levels that use its features play with those effects disabled and show a notice
 - Controllers and very heavy levels are not well tested yet
 - Tested on one device so far (POCO F7); reports from other devices are welcome
 
@@ -87,22 +87,21 @@ ou na [Steam](https://store.steampowered.com/app/977950/A_Dance_of_Fire_and_Ice/
 Estes links sempre apontam para os arquivos da release mais nova, então scripts e gerenciadores de download podem usá-los direto:
 
 - APK: https://github.com/mostardor/adolfheim-android/releases/latest/download/Adolfheim.apk
-- OBB: https://github.com/mostardor/adolfheim-android/releases/latest/download/main.1.com.adofaiport.personal.obb
 
-Os dois arquivos ficam anexados em toda release (mesmo quando o OBB não mudou), então os links nunca quebram. Coloque o OBB em
-`Android/obb/com.adofaiport.personal/`.
+Desde a 0.3.2 o APK é o único arquivo: o conteúdo do jogo está dentro dele e não há OBB para copiar. (As versões 0.3.1 e anteriores
+precisam do `.obb` anexado à própria release, em `Android/obb/com.adofaiport.personal/`.)
 
 ### Requisitos
 
 - Android 8.0 ou mais novo (API 26+), ARM de 64 bits (arm64-v8a)
 - Vulkan ou OpenGL ES 3
-- Cerca de 800 MB livres, mais as suas fases
+- Cerca de 650 MB livres para o app (cerca de 1,3 GB livres durante a instalação), mais as suas fases
 - Internet só para o navegador de fases e as salas online
 
 ### Problemas conhecidos
 
 - Os quatro shaders `Framebuffer` dos modos de mistura são aproximações; algumas decorações podem ficar diferentes
-- A DLC Neo Cosmos não faz parte do port
+- A DLC Neo Cosmos não faz parte do port; fases custom que usam seus recursos rodam com esses efeitos desativados e mostram um aviso
 - Controles e fases muito pesadas ainda foram pouco testados
 - Testado em um aparelho até agora (POCO F7); relatos de outros aparelhos são bem-vindos
 

@@ -14,13 +14,26 @@ Technical data of the port's builds. The build files themselves are not in this 
 | Minimum Android | 8.0 (API 26) |
 | Graphics APIs | Vulkan, then OpenGL ES 3 |
 | Orientation | Landscape (both sides) |
-| Packaging | APK + OBB (split application binary) |
+| Packaging | Single APK since 0.3.2 (APK + OBB up to 0.3.1) |
 | Unity splash screen | Off |
 | Original-game check | Optional build setting (`ADOFAI_REQUIRE_OFFICIAL`) |
 
 Level folder on the device: `Android/data/com.adofaiport.personal/files/Worlds`.
 
 ## Builds
+
+### 0.3.2 — 2026-11-11
+
+| File | Size | SHA-256 |
+|---|---|---|
+| APK | 645,074,075 bytes (615.2 MiB) | `e728cd33b7a5736780da1133a9af56d6cf8f602eb32ec71fbbfbb352453f976e` |
+
+- Single APK: no OBB (the `splitApplicationBinary` build setting is off)
+- Neo Cosmos DLC bundles are not included (about 138 MB less than 0.3.1)
+- Version name 0.3.2, version code 1
+- Original-game check: off
+- Build time: about 6 minutes (Unity 6000.3.27f2, IL2CPP), no build errors reported
+- Tested on: POCO F7 — installed over 0.3.1 and opened without the OBB; the notice for DLC levels and the online changes were not played through yet
 
 ### 0.3.1 — 2026-11-11
 
