@@ -2,6 +2,27 @@
 
 Versions of the Android port. Dates are YYYY-MM-DD.
 
+## 0.3.3 — 2026-11-21
+
+The online rooms are now the same as the PC mod 0.2.10. Install the new APK over the old one.
+
+### Added
+- **Up to 8 players per room** (it was 4); the player list and the results window adapt
+- **Players online** in the lobby: *Players online · Rooms with players · Active today*
+- **Sound when someone joins your room** (not during a match); it can be turned off in *Options*
+- **Ghost options:** opacity (100 / 80 / 50 / 25 % or hidden) and showing or hiding the names above the ghosts
+- **Play again** button in the results window (marks you ready for the next match)
+- **Level leader:** the room creator can hand this role to another player; the leader picks the level, manages the
+  queue and accepts or rejects suggestions (only the creator removes and bans players, changes modifiers and starts
+  or ends the match)
+- **Level suggestions:** any player can suggest levels (up to 3 each, 20 in the list); the host or the leader can
+  *Play now*, *Queue it* or *Reject*
+
+### Changed
+- *Options* screen reorganized in two columns
+- Player counts, rooms with more than 4 players, the level leader and the suggestions need the updated room servers;
+  with an older server the app works as before
+
 ## 0.3.2 — 2026-11-11
 
 One file only: the OBB is gone. Install the APK; nothing goes in `Android/obb` anymore.

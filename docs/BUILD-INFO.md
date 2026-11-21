@@ -22,6 +22,19 @@ Level folder on the device: `Android/data/com.adofaiport.personal/files/Worlds`.
 
 ## Builds
 
+### 0.3.3 — 2026-11-21
+
+| File | Size | SHA-256 |
+|---|---|---|
+| APK | 645,097,799 bytes (615.2 MiB) | `4c25dd67904677f1a07699d7ba1a861b4fdf84b2761ea3a9e1559b2973ed5e36` |
+
+- Single APK, no OBB; Neo Cosmos DLC bundles not included
+- Version name 0.3.3, version code 1; package `com.adofaiport.personal`
+- Original-game check: off
+- Build time: about 11 minutes (Unity 6000.3.27f2, IL2CPP). Result: succeeded. Unity's summary counts 19 logged
+  errors; none are compile errors (for example "Script error: OnParticleUpdateJobScheduled").
+- Tested on: not played through on a device yet
+
 ### 0.3.2 — 2026-11-11
 
 | File | Size | SHA-256 |

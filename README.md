@@ -13,7 +13,7 @@ or [Steam](https://store.steampowered.com/app/977950/A_Dance_of_Fire_and_Ice/).
 - **Custom levels on the phone:** local level folder, level import with the native file picker (`.zip` / `.adofai`),
   and a level browser for ADOFAI.gg and TUF that downloads and installs on the device
 - **Touch:** tap to play, drag to scroll the level list, short tap to enter a level, on-screen pause button
-- **Online rooms** (up to 4 players, public or private): race ghosts, spectator mode, chat, host modifiers
+- **Online rooms** (up to 8 players, public or private): race ghosts, spectator mode, chat, host modifiers
   (Immortal, Speed 0.5x–2x), level queue
 - **Online portal** in the main menu
 - Screens in English, Portuguese and Korean
@@ -22,6 +22,7 @@ or [Steam](https://store.steampowered.com/app/977950/A_Dance_of_Fire_and_Ice/).
 
 | Version | Date | Highlights |
 |---|---|---|
+| [0.3.3](releases/notes-0.3.3.md) | 2026-11-21 | Online rooms updated to mod 0.2.10: up to 8 players, ghost options, level leader and suggestions, play again |
 | [0.3.2](releases/notes-0.3.2.md) | 2026-11-11 | Single APK (no OBB), Neo Cosmos DLC content removed, notice for levels that use DLC features |
 | [0.3.1](releases/notes-0.3.1.md) | 2026-11-11 | Room password, ban and report, chat anti-spam and filter, level list and touch fixes |
 | [0.3.0](releases/notes-0.3.0.md) | 2026-11-10 | Level queue, new level picker with artwork, options screen, text flicker fix |
@@ -70,7 +71,7 @@ ou na [Steam](https://store.steampowered.com/app/977950/A_Dance_of_Fire_and_Ice/
 - **Fases personalizadas no celular:** pasta local de fases, importação pelo seletor de arquivos do Android
   (`.zip` / `.adofai`) e navegador do ADOFAI.gg e do TUF, que baixa e instala no aparelho
 - **Toque:** tocar para jogar, arrastar para rolar a lista, toque curto para entrar na fase, botão de pausa na tela
-- **Salas online** (até 4 jogadores, públicas ou privadas): fantasmas, espectador, chat, modificadores do anfitrião
+- **Salas online** (até 8 jogadores, públicas ou privadas): fantasmas, espectador, chat, modificadores do anfitrião
   (Imortal, Velocidade 0,5x–2x) e fila de fases
 - **Portal Online** no menu principal
 - Telas em português, inglês e coreano
