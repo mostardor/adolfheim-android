@@ -2,6 +2,27 @@
 
 Versions of the Android port. Dates are YYYY-MM-DD.
 
+## 0.3.4 — 2026-11-27
+
+A smaller app, a new look for the online screen, and a fix for levels that lost their visual effects. Install the new APK over the old one.
+
+### Added
+- **What's new** screen after every update (short and color-coded) and a **new version notice** with a download shortcut
+- **Online invitation** when the game opens, with the number of players online
+- **Drag the screen** in the campaign menu to switch world and area
+- **Redesigned online screen:** fewer words, colored buttons, colored rooms and players; *All regions* is on by default
+- **Options > Graphics:** *Hide Level Names* and *Hide Hit Judgments* (the *Perfect*, *Late Perfect*... texts)
+
+### Changed
+- **About 188 MB smaller** (435.7 MiB APK): ASTC textures; the level editor's Japanese and Chinese fonts were removed
+- The pause menu's *Support* button opens the port's Discord
+
+### Fixed
+- **Missing visuals and black backgrounds** in levels that use blend effects (Screen, Overlay, Linear Dodge, Difference...),
+  like **AR-X Libertas after the drop**: the blend shader only supported three modes and now supports all of them
+- Short taps in the campaign menu count when the finger touches the screen (they counted when it was lifted)
+- *Back* closes the what's-new window, the online invitation and the update notice instead of opening the pause menu behind them
+
 ## 0.3.3 — 2026-11-21
 
 The online rooms are now the same as the PC mod 0.2.10. Install the new APK over the old one.

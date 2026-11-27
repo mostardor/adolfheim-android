@@ -22,6 +22,7 @@ or [Steam](https://store.steampowered.com/app/977950/A_Dance_of_Fire_and_Ice/).
 
 | Version | Date | Highlights |
 |---|---|---|
+| [0.3.4](releases/notes-0.3.4.md) | 2026-11-27 | 188 MB smaller, redesigned online screen, what's-new and update notices, blend-effect fix (black backgrounds), hide level names and hit judgments |
 | [0.3.3](releases/notes-0.3.3.md) | 2026-11-21 | Online rooms updated to mod 0.2.10: up to 8 players, ghost options, level leader and suggestions, play again |
 | [0.3.2](releases/notes-0.3.2.md) | 2026-11-11 | Single APK (no OBB), Neo Cosmos DLC content removed, notice for levels that use DLC features |
 | [0.3.1](releases/notes-0.3.1.md) | 2026-11-11 | Room password, ban and report, chat anti-spam and filter, level list and touch fixes |
@@ -81,6 +82,7 @@ ou na [Steam](https://store.steampowered.com/app/977950/A_Dance_of_Fire_and_Ice/
 
 | Versão | Data | Destaques |
 |---|---|---|
+| [0.3.4](releases/notes-0.3.4.md) | 27/11/2026 | App 188 MB menor, tela online redesenhada, avisos de novidades e de versão, correção dos fundos pretos (efeitos de mistura), ocultar nomes das fases e julgamentos |
 | [0.3.0](releases/notes-0.3.0.md) | 10/11/2026 | Fila de fases, seletor de fases com arte, tela de opções, correção dos textos piscando |
 
 ### Baixar (sempre a versão mais recente)

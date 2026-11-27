@@ -22,6 +22,21 @@ Level folder on the device: `Android/data/com.adofaiport.personal/files/Worlds`.
 
 ## Builds
 
+### 0.3.4 — 2026-11-27
+
+| File | Size | SHA-256 |
+|---|---|---|
+| APK | 456,876,136 bytes (435.7 MiB) | `1f8164073458190e88739bc22b27557434022350551b66ef49b14d2b4b8d0221` |
+
+- Single APK, no OBB; Neo Cosmos DLC bundles not included
+- Textures in ASTC only (the APK is 188 MB smaller than 0.3.3); the level editor's Japanese and Chinese fonts removed
+- Version name 0.3.4, version code 1; package `com.adofaiport.personal`
+- Original-game check: off
+- Build time: about 9 minutes (Unity 6000.3.27f2, IL2CPP). Result: succeeded. Unity's summary counts 19 logged
+  errors; none are compile errors (for example "Script error: OnParticleUpdateJobScheduled").
+- Tested on: POCO F7 — the final APK was installed over the debug build and opened; the same code, in debug builds, was
+  played on the device (AR-X Libertas on autoplay, online screen, pause menu, back button)
+
 ### 0.3.3 — 2026-11-21
 
 | File | Size | SHA-256 |
